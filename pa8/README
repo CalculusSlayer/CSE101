@@ -1,0 +1,35 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 8
+
+-------------
+DESCRIPTION
+
+This assignment is about implementing the Dictionary ADT
+in C++ and making an ordering program and a tokenizing
+program. The ordering program will print out the correct order.
+The tokenizing program will print out frequencies.
+
+--------------
+FILES
+
+- Dictionary.h: This file contains function prototypes of the Dictionary ADT.
+- Dictionary.cpp: This file contains the actual functions of the Dictionary ADT.
+- DictionaryTest.cpp: This file contains test cases for the Dictionary ADT.
+- Order.cpp: This is one of the main files and contains code to print the correct order.
+- WordFrequency.cpp: This is one of the main files and contains code to print frequencies.
+- Makefile: This file creates the main programs.
+- README: This file contains information about the other files.
+
+--------------------
+How to Run Programs:
+
+Order:
+./Order <input file> <output file>
+
+WordFrequency:
+./WordFrequency <input file> <output file>
+
+DictionaryTest:
+./DictionaryTest

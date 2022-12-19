@@ -1,0 +1,30 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 7
+
+-------------
+DESCRIPTION
+
+This assignment is about implementing the Dictionary ADT
+in C++ and making an ordering program. The program
+will print out the correct order.
+
+--------------
+FILES
+
+- Dictionary.h: This file contains function prototypes of the Dictionary ADT.
+- Dictionary.cpp: This file contains the actual functions of the Dictionary ADT.
+- DictionaryTest.cpp: This file contains test cases for the Dictionary ADT.
+- Order.cpp: This is the main file and contains code to print the correct order.
+- Makefile: This file creates the main programs.
+- README: This file contains information about the other files.
+
+--------------------
+How to Run Programs:
+
+Order:
+./Order <input file> <output file>
+
+DictionaryTest:
+./DictionaryTest

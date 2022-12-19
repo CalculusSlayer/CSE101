@@ -1,0 +1,36 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 6
+
+-------------
+DESCRIPTION
+
+This assignment is about implementing the BigInteger ADT
+in C++ and making an arithmetic program. The program
+will print out the results of various arithmetic operations.
+
+--------------
+FILES
+
+- List.h: This file contains function prototypes of the List ADT.
+- List.cpp: This file contains the actual functions of the List ADT.
+- ListTest.cpp: This file contains test cases for the List ADT.
+- BigInteger.h: This file contains function prototypes for the BigInteger ADT
+- BigInteger.cpp: This file contains the actual functions of the BigInteger ADT
+- BigIntegerTest.cpp: This file contains test cases for the BigInteger ADT.
+- Arithmetic.cpp: This is the main file and contains code to print arithmetic results.
+- Makefile: This file creates the main programs.
+- README: This file contains information about the other files.
+
+--------------------
+How to Run Programs:
+
+Arithmetic:
+./Arithmetic <input file> <output file>
+
+ListTest:
+./ListTest
+
+BigIntegerTest:
+./BigIntegerTest

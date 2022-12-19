@@ -1,0 +1,35 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 3
+
+-------------
+DESCRIPTION
+
+This assignment is about making the Graph ADT and using it
+to perform the DFS algorithm. After performing the BFS,
+information about the strongly connected components will
+be known.
+
+--------------
+FILES
+
+- List.h: This file contains function prototypes of the List ADT.
+- List.c: This file contains the actual functions of the List ADT.
+- Graph.h: This file contains function prototypes of the Graph ADT.
+- Graph.c: This file contains the actual functions of the List ADT.
+- GraphTest.c: This file contains test cases for the Graph ADT.
+- FindComponents.c: This file performs DFS algorithms to find
+                    the strongly connected components of a Graph.
+  and a few other things like keeping track of distances and parents.
+- Makefile: This file creates the main two programs Lex and ListTest.
+- README: This file contains information about the other files.
+
+--------------------
+How to Run Programs:
+
+FindComponents:
+./FindComponents <infile> <outfile>
+
+GraphTest:
+./GraphTest

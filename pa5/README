@@ -1,0 +1,31 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 5
+
+-------------
+DESCRIPTION
+
+This assignment is about implementing the List ADT
+in C++ and making a shuffling program. The program
+will print out the number of perfect shuffles needed
+to return to its original state.
+
+--------------
+FILES
+
+- List.h: This file contains function prototypes of the List ADT.
+- List.cpp: This file contains the actual functions of the List ADT.
+- ListTest.cpp: This file contains test cases for the List ADT.
+- Shuffle.cpp: This is the main file and contains code to shuffle Lists.
+- Makefile: This file creates the main programs ListTest and Shuffle
+- README: This file contains information about the other files.
+
+--------------------
+How to Run Programs:
+
+Shuffle:
+./Shuffle <number of elements>
+
+ListTest:
+./ListTest

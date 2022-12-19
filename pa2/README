@@ -1,0 +1,25 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 2
+
+-------------
+DESCRIPTION
+
+This assignment is about making the Graph ADT and using it
+to perform the BFS algorithm. After performing the BFS,
+information such shortest path and distance from the 
+source will be known.
+
+--------------
+FILES
+
+- List.h: This file contains function prototypes of the List ADT.
+- List.c: This file contains the actual functions of the List ADT.
+- Graph.h: This file contains function prototypes of the Graph ADT.
+- Graph.c: This file contains the actual functions of the List ADT.
+- GraphTest.c: This file contains test cases for the Graph ADT.
+- FindPath.c: This file reads an input file and does BFS algorithm
+  and a few other things like keeping track of distances and parents.
+- Makefile: This file creates the main two programs Lex and ListTest.
+- README: This file contains information about the other files.

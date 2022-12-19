@@ -1,0 +1,23 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 1
+
+-------------
+DESCRIPTION
+
+This assignment is about making the List ADT and implementing
+an indirect insertion sort algorithm. The List ADT itself
+contains only integers, but we are required to sort a list
+of strings.
+
+--------------
+FILES
+
+- List.h: This file contains function prototypes of the List ADT.
+- List.c: This file contains the actual functions of the List ADT.
+- Lex.c: This file performs the indirect insertion sort algorithm
+  on the list of strings.
+- ListTest.c: This file thoroughly tests the List ADT.
+- Makefile: This file creates the main two programs Lex and ListTest.
+- README: This file contains information about the other files.

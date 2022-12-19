@@ -1,0 +1,38 @@
+Nayeel Imtiaz
+naimtiaz
+CSE 101 Spring 2022
+PA 4
+
+-------------
+DESCRIPTION
+
+This assignment is about Matrixes with a a lot of zeros.
+Matrixes with a lot of zeros are called "sparse". The
+different operations required for this project include
+copy, transpose, sum, dif, product, and newMatrix.
+
+--------------
+FILES
+
+- List.h: This file contains function prototypes of the List ADT.
+- List.c: This file contains the actual functions of the List ADT.
+- ListTest.c: This file contains test cases for the List ADT.
+- Matrix.h: This file contains function prototypes of the Matrix ADT.
+- Matrix.c: This file contains the actual functions of the Matrix ADT.
+- MatrixTest.c: This file contains the test cases for the Matrix ADT.
+- Sparse.c: This file contains code for the main program. It will perform
+            various matrix operations on different matricies.
+- Makefile: This file creates the main three programs Sparse, MatrixTest, and ListTest.
+- README: This file contains information about the other files.
+
+--------------------
+How to Run Programs:
+
+Sparse:
+./Sparse <infile> <outfile>
+
+ListTest:
+./ListTest
+
+MatrixTest:
+./MatrixTest
